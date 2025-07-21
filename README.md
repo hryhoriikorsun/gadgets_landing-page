@@ -1,13 +1,15 @@
 # Gadgets landing page
 
-Односторінковий лендинг для рекламування та продажу гаджетів. Адаптивний дизайн, сучасний інтерфейс, оптимізований для швидкого завантаження та взаємодії з користувачем.
+A single-page landing website designed for advertising and selling gadgets. It features a responsive layout, modern user interface, and is optimized for fast loading and smooth user interaction.
 
-Технології:
+Technologies:
    - HTML / SCSS
    - JavaScript
 
-Переглянути [live-думо](https://hryhoriikorsun.github.io/gadgets_landing-page/). [Макет](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=vzQlJMgr92ACpcwL-0) в Figma.
+Preview & Design:
+  - [Live Demo](https://hryhoriikorsun.github.io/gadgets_landing-page/)
+  - [Figma Design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=vzQlJMgr92ACpcwL-0)
 
-Для запуску використаєте наступні команди:
+To run the project locally:
   - npm install
   - npm start
